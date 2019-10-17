@@ -1,0 +1,133 @@
+@charset "utf-8";
+#titulo {
+	color: #212121;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: 70px;
+	text-align: center;
+}
+#bio {
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 25px;
+	color: #464646;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+#img2 {
+	width: 100%;
+	margin-top: 20px;
+	margin-left: 5px;
+	float: left;
+}
+#tilulo1 {
+	padding-left: 0px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	color: #212121;
+	font-size: 35px;
+}
+#titulo3 {
+	color: #212121;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 35px;
+	text-align: center;
+}
+#paragrafo3 {
+	color: #212121;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 23px;
+	text-align: justify;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 40px;
+}
+#div4 {
+	color: #464646;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	padding-top: 40px;
+	margin-top: 40px;
+	clear: both;
+}
+#paragrafo4 {
+	color: #5A5A5A;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 23px;
+	text-align: justify;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+#titulo4 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 35px;
+	color: #212121;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+body p {
+}
+body {
+	background-color: #F0F0F0;
+
+}
+body img {
+}
+img {
+	margin-top: 0px;
+	margin-left: 0px;
+	width: 100%;
+
+}
+#frase {
+	text-align: center;
+	color: #5A5959;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-style: italic;
+	font-size: 50px;
+}
+#paragrafo1 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	color: #373737;
+	font-size: 23px;
+
+}
+#div2 {
+	width: 45%;
+	height: 0%;
+	margin-left: 20px;
+	padding-right: 20px;
+	float: left;
+}
+
+
+.div3 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	width: 45%;
+	padding-right: 20px;
+	margin-left: 30px;
+	float: right;
+}
+#titulo5 {
+	clear: both;
+	color: #212121;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 35px;
+	text-align: center;
+}
+#paragrafo5 {
+	clear: both;
+	color: #5A5A5A;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 23px;
+	text-align: justify;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 40px;
+}
