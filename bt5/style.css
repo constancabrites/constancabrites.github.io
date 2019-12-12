@@ -1,0 +1,78 @@
+@charset "utf-8";
+
+body{
+  background-color: #FEF7FB;
+}
+
+.nav{
+  height: 50px;
+}
+
+.nav a{
+  color: #000;
+  font-size: 16px;
+  margin-top: 5px;
+}
+
+.nav a:hover{
+  color:#00f;
+}
+
+
+
+.jumbotron{
+  background-image: url(img/pap.jpg);
+  background-size: cover;
+  height: 600px;
+}
+
+.jumbotron img{
+  height: 20%;
+  width: auto;
+position: relative;
+  top: 100px;
+  left: 330px;
+  transform: translate(50%,50%);
+}
+
+.jumbotron p{
+  width: 700px;
+  text-align: center;
+  margin-left: 300px;
+  font-family: 'Montserrat', sans-serif;
+  color: #000;
+}
+
+.jumbotron h1{
+  font-family: 'Alatsi', sans-serif;
+  color: #000;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 110px;
+}
+
+
+.mail{
+  width: 900px;
+  height: auto;
+  margin-top: 130px;
+}
+
+.politicas img{
+  width: 100%;
+  height: auto;
+  margin-top: 110px;
+}
+
+footer p{
+  font-size: 12px;
+  text-align: center;
+  color: #fff;
+  padding-top: 17px;
+}
+
+footer{
+  background-color: #000;
+  height: 50px;
+  width: auto;
+}
