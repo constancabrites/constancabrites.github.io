@@ -1,0 +1,171 @@
+@charset "utf-8";
+
+{}
+body{
+	padding: 0;
+	margin: 0;
+}
+
+main {
+	width: 100%;
+	max-width: 100%;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-bottom: 60px;
+	background-color: #FFFFFF;
+	height: 20%;
+}
+
+.imagem {
+	width: 100%;
+  height: auto;
+	margin-top:0;
+	margin:0;
+}
+
+.content h2{
+	font-size: 50px;
+	font-family: 'Francois One', sans-serif;
+	padding-left:30px;
+	color: rgba(38, 6, 152, 1);
+}
+
+.texto p {
+	font-family: 'IBM Plex Sans', sans-serif;
+	font-size: 25px;
+	padding-left:80px;
+	padding-right:80px;
+}
+
+.texto h1 {
+	font-size: 40px;
+	font-family: 'Francois One', sans-serif;
+	padding-left: 30px;
+	color: rgba(38, 6, 152, 1);
+}
+
+
+
+header{
+	width: 100%;
+	height: auto;
+}
+
+
+header div{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	color: aliceblue;
+	font-size: 60px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	text-align: center;
+}
+
+
+nav{
+	background-color: rgba(166,230,237,0.81);
+	margin: 0 auto;
+	position: relative;
+}
+
+.content p {
+	font-family: 'IBM Plex Sans', sans-serif;
+	font-size: 30px;
+	padding-left: 80px;
+	padding-right: 80px;
+}
+
+nav ul{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+nav li{
+	display: inline;
+}
+
+nav a{
+	display: inline-block;
+	padding: 10px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 17px;
+	font-family: 'IBM Plex Sans', sans-serif;
+}
+
+nav a:hover{
+	color: rgba(17,53,110,1.00);
+}
+
+article{
+	width: 80%;
+	margin: 0 auto;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	height: auto;
+}
+
+
+figure{
+  display: inline-block;
+  margin: 0;
+  margin-left: 5px;
+}
+
+#projetos img{
+  width: 20%;
+  height: auto;
+  position: relative;
+}
+
+figcaption{
+  font-size: 20px;
+  font-family: 'Francois One', sans-serif;
+  text-align: center;
+  color: rgb(107, 107, 107);
+
+}
+
+
+article h1{
+	color: cadetblue;
+	font-size: 30px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"
+}
+
+article p{
+	text-align: justify;
+	color: black;
+}
+
+
+footer{
+	background-color:rgb(166,230,237);
+	height: 100px;
+	position: relative;
+}
+
+.imagens img {
+	width: 100%;
+	height: auto;
+	padding: 10px;
+}
+
+footer div{
+	color: aliceblue;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+}
+
+header p {
+	font-size: 2rem;
+}
+
+main article h1 {
+}
